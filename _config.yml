@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://sacjw.github.io
+title: cat in the field
+tagline: a field log
+description: stories from the field
+paginate: 5
